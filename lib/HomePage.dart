@@ -153,16 +153,6 @@ class _HomePageState extends State<HomePage> {
               ),
             ),
           ),
-          Container(
-            color: Colors.black,
-            child: Text('Learncodeonline.in',
-            textAlign: TextAlign.center,
-              style: TextStyle(
-                color: Colors.white,
-                fontSize: 20.0,
-            
-              ),
-            ),
             
           )   
         ],
